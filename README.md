@@ -1,12 +1,11 @@
-# Laravel 6 Tutorial
+# Laravel 6 Project
 
-This Tutorial is by **ALGORITHM**
-[Visit My Channel](https://www.youtube.com/c/algorithmCoding)
+This Project is by **Eslam Ragab**
 
-## Project2 : Demo Blog App with Laravel Framework
+ Blog App with Laravel Framework
 
 
-### Content of Project 2
+### Content of Project 
 
 - Authentication
 - Models & Migrations
